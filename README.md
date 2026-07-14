@@ -176,9 +176,15 @@ The system can **dynamically switch the active AI model** if:
 
 ## 🖥️ Installation and Launch
 
-1. ✅ **Download the latest release** from the [Releases](../../releases).
-2. 📁 **Extract Files**: Unzip the archive to a secure folder.
-3. 🟢 **Run Loader**: Launch `nof1ai_alphaarena.exe` as administrator.
+### Option 1 — Download Installer (Recommended)
+
+Latest release: **v4.0.3** — [View all releases](../../releases)
+
+| Platform | Download | Run |
+|----------|----------|-----|
+| **Windows x64** | [nof1ai-alpha-arena_x64.7z](../../releases) | Run installer → launch `nof1ai-alpha-arena_x64.exe` |
+| **Linux x64** | [nof1ai-alpha-arena-Linux-x64.run](../../releases) | `chmod +x` → run installer |
+| **macOS Apple Silicon** | [nof1ai-alpha-arena-macOS-arm64.dmg](../../releases) | Open DMG → drag to Applications |
 
 > On first run, the bot will prompt to connect API keys, select a model, and set trading limits.
 
